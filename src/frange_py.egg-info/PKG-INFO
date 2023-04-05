@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: frange-py
+Version: 1.0.0
+Summary: An alternative to range with support for floats
+Author-email: Aarav Malani <aarav.malani@gmail.com>
+Project-URL: Homepage, https://github.com/AaravMalani/frange
+Project-URL: Bug Tracker, https://github.com/AaravMalani/frange/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # frange: An alternative to range with support for floats
 
 ## Requirements
